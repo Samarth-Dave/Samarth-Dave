@@ -70,9 +70,8 @@ Stores farmer profiles, crop history, and government schemes using a structured 
 
 ### 📜 Certifications
 
-- [![Full Stack Web Dev](https://img.shields.io/badge/Udemy-Full--Stack--Bootcamp-02b875?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-d63e68af-e337-4aa0-bc94-4dd0c2cee941/)
-- [![JPMorgan](https://img.shields.io/badge/JP%20Morgan-Investment%20Banking-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZtgA28qyexifyEdHE/YD2kY95RQxQtXxFTS_ZtgA28qyexifyEdHE_ZQvae2SSp8YEh7mRM_1743927797748_completion_certificate.pdf)
-- ![Tata Group](https://img.shields.io/badge/Tata--Data%20Viz-1c75bc?style=for-the-badge&logo=tata&logoColor=white)
+- [![Full Stack Web Dev](https://img.shields.io/badge/Udemy-Full--Stack--Bootcamp-02b875?style=for-the-badge&logo=udemy&logoColor=white)]()
+  
 
 ---
 
